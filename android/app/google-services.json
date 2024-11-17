@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "788303267652",
+    "project_id": "voice-9c086",
+    "storage_bucket": "voice-9c086.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:788303267652:android:e9f1353e407d3ec68b3911",
+        "android_client_info": {
+          "package_name": "com.example.cadenza"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUirA2DPlxIfvmxqZiTXzNSWmqUriIRdc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
